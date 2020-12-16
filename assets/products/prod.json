@@ -1,0 +1,44 @@
+[
+  {
+    "id": 0,
+    "name": "iPhone 6S",
+    "description": "description",
+    "imageUrl": "./assets/products/na.jpg",
+    "price": 799
+  },
+  {
+    "id": 1,
+    "name": "iPhone 5S",
+    "description": "description",
+    "imageUrl": "./assets/products/na.jpg",
+    "price": 799
+  },
+  {
+    "id": 2,
+    "name": "Macbook",
+    "description": "description",
+    "imageUrl": "./assets/products/na.jpg",
+    "price": 1499
+  },
+  {
+    "id": 3,
+    "name": "Macbook Air",
+    "description": "description",
+    "imageUrl": "./assets/products/na.jpg",
+    "price": 999
+  },
+  {
+    "id": 4,
+    "name": "Macbook Air 2013",
+    "description": "description",
+    "imageUrl": "./assets/products/na.jpg",
+    "price": 599
+  },
+  {
+    "id": 5,
+    "name": "Macbook Air 2012",
+    "description": "description",
+    "imageUrl": "./assets/products/na.jpg",
+    "price": 499
+  }
+]
